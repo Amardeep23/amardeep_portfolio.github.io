@@ -87,7 +87,7 @@ li{
        font-size: 25px;
        font-weight: 500;
        position: relative; 
-       display: inline-block;
+/*        display: inline-block; */
        border: #ff1100 4px double;
        margin: 10px;
        margin-right: 2px;
