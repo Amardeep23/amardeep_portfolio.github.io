@@ -182,4 +182,18 @@ input[type=email]:invalid{
         background-color: #000000;
         border-radius: 39px;
     }
+
+    .head h1{
+      text-align: left;
+    }
+    #mail{
+        color:orangered;
+        font-size: 25px;
+        position: initial;
+        left: 60px;
+    }
+    form{
+        position: initial;
+        left: 60px;
+    }
 }
