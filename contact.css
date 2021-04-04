@@ -2,15 +2,15 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     font-weight: 500;
-    position: fixed; 
+    position: fixed;
     display: inline-block;
     border: #ff1100 4px double;
     margin: 5px;
     margin-right: 2px;
     margin-left: 2px;
-    background-color: #000000; 
-    border-radius: 39px; 
-    
+    background-color: #000000;
+    border-radius: 39px;
+
 }
 .heading_para a:link, a:visited{
     padding: 10px 20px;
@@ -42,7 +42,7 @@ ul{
     text-align: center;
     margin: 0px;
     padding: 0px;
-    
+
 }
 li{
     display: inline-block;
@@ -91,7 +91,7 @@ form label span{
     text-align: center;
     margin: 0px;
     padding: 0px;
-    
+
 }
 .list ul li{
     display: inline-block;
@@ -103,7 +103,7 @@ form label span{
 }
 input[type=text]{
     width: 45%;
-    
+
     border-radius: 10px;
     padding: 8px 2px;
     text-decoration: solid;
@@ -111,7 +111,7 @@ input[type=text]{
     border-width: 4px;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
-    
+
 }
 input[type=email]{
     width: 45%;
@@ -138,7 +138,7 @@ input[type=submit]{
     padding: 10px 10px;
     border-radius: 10px;
     cursor: pointer;
-    
+
     color: orangered;
     border: solid;
     text-decoration: solid;
@@ -162,7 +162,7 @@ input[type=email]:valid{
 input[type=email]:invalid{
     border-width: 4px;
     border-color: rgb(245, 6, 6);
-    
+
 }
 
 
@@ -173,13 +173,13 @@ input[type=email]:invalid{
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 25px;
         font-weight: 500;
-        position: relative; 
-        display: block;
+        position: relative;
+        display: inline-block;
         border: #ff1100 4px double;
         margin: 10px;
         margin-right: 2px;
         margin-left: 2px;
-        background-color: #000000; 
-        border-radius: 39px;  
-    }  
+        background-color: #000000;
+        border-radius: 39px;
+    }
 }

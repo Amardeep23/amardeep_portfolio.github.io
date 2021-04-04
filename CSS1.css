@@ -13,14 +13,14 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     font-weight: 500;
-    position: fixed; 
+    position: fixed;
     display: inline-block;
     border: #ff1100 4px double;
     margin: 10px;
     margin-right: 2px;
     margin-left: 2px;
-    background-color: #000000; 
-    border-radius: 39px;   
+    background-color: #000000;
+    border-radius: 39px;
 }
 .heading_para a:link, a:visited{
     padding: 10px 20px;
@@ -67,7 +67,7 @@ ul{
    text-align: center;
    margin: 0px;
    padding: 0px;
-   
+
 }
 li{
    display: inline-block;
@@ -86,14 +86,14 @@ li{
        font-family: Georgia, 'Times New Roman', Times, serif;
        font-size: 25px;
        font-weight: 500;
-       position: relative; 
-/*        display: inline-block; */
+       position: relative;
+       display: inline-block;
        border: #ff1100 4px double;
        margin: 10px;
        margin-right: 2px;
        margin-left: 2px;
-       background-color: #000000; 
-       border-radius: 39px;   
+       background-color: #000000;
+       border-radius: 39px;
    }
    .heading_para a{
        width: 100%;
@@ -117,7 +117,7 @@ li{
        margin-left:n 0px;
        margin-right: 25px;
        border-radius: 60px;
-   
+
    }
-   
+
 }
